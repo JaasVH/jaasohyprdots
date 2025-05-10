@@ -1,0 +1,24 @@
+2025/05/10-19:05:05.043 4 Reusing MANIFEST /home/jaaso/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/10-19:05:05.087 4 Recovering log #17
+2025/05/10-19:05:05.094 4 Reusing old log /home/jaaso/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000017.log 
+2025/05/10-19:20:38.013 6 Level-0 table #21: started
+2025/05/10-19:20:38.043 6 Level-0 table #21: 46800 bytes OK
+2025/05/10-19:20:38.055 6 Delete type=0 #17
+2025/05/10-19:39:24.305 4 Level-0 table #23: started
+2025/05/10-19:39:24.315 4 Level-0 table #23: 49118 bytes OK
+2025/05/10-19:39:24.325 4 Delete type=0 #20
+2025/05/10-19:43:26.578 6 Level-0 table #25: started
+2025/05/10-19:43:26.586 6 Level-0 table #25: 33014 bytes OK
+2025/05/10-19:43:26.603 6 Delete type=0 #22
+2025/05/10-19:43:26.604 6 Compacting 4@0 + 1@1 files
+2025/05/10-19:43:26.618 6 Generated table #26@0: 148 keys, 133751 bytes
+2025/05/10-19:43:26.618 6 Compacted 4@0 + 1@1 files => 133751 bytes
+2025/05/10-19:43:26.627 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/10-19:43:26.629 6 Delete type=2 #21
+2025/05/10-19:43:26.629 6 Delete type=2 #23
+2025/05/10-19:43:26.629 6 Delete type=2 #25
+2025/05/10-19:43:26.629 6 Delete type=2 #18
+2025/05/10-19:43:26.629 6 Delete type=2 #15
+2025/05/10-20:03:17.369 6 Level-0 table #28: started
+2025/05/10-20:03:17.378 6 Level-0 table #28: 53976 bytes OK
+2025/05/10-20:03:17.389 6 Delete type=0 #24

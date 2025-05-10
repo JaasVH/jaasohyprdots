@@ -1,0 +1,11 @@
+2025/05/09-21:01:54.129 676 Creating DB /home/jaaso/.config/discord/Local Storage/leveldb since it was missing.
+2025/05/09-21:01:54.257 676 Reusing MANIFEST /home/jaaso/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/09-21:06:50.521 677 Level-0 table #5: started
+2025/05/09-21:06:50.599 677 Level-0 table #5: 70466 bytes OK
+2025/05/09-21:06:50.609 677 Delete type=0 #3
+2025/05/09-21:07:10.232 677 Level-0 table #7: started
+2025/05/09-21:07:10.612 677 Level-0 table #7: 1059890 bytes OK
+2025/05/09-21:07:10.882 677 Delete type=0 #4
+2025/05/09-21:08:10.227 677 Level-0 table #9: started
+2025/05/09-21:08:10.265 677 Level-0 table #9: 2530346 bytes OK
+2025/05/09-21:08:10.275 677 Delete type=0 #6
